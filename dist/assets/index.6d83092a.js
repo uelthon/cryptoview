@@ -1,0 +1,1 @@
+import{a as c,d as e,j as i}from"./index.db63a436.js";const t=()=>{const n=c(o=>o.coin.coin);function s(){return{__html:n.description}}return e("div",{children:[e("h2",{children:["What is ",n.name]}),i("div",{className:"container-description",dangerouslySetInnerHTML:s()})]})},a=t;export{a as default};
